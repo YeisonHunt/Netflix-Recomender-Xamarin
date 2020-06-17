@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ivDxQNBi9/Be1ZXlypYckEPOrpsaCKSbsweNWwMKJnFA+2U4dbpZ54jZ+filXVy6OSW0gdnp0prfFrMaFlQGbw==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\Mobile Apps\\Netflix Recomender\\Netflix Recomender.iOS\\Netflix Recomender.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caic800027\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

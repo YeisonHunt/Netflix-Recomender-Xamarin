@@ -1,0 +1,20 @@
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\bin\Debug\netstandard2.0\Netflix Recomender.deps.json
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\bin\Debug\netstandard2.0\Netflix Recomender.dll
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\bin\Debug\netstandard2.0\ref\Netflix Recomender.dll
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\bin\Debug\netstandard2.0\Netflix Recomender.pdb
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\obj\Debug\netstandard2.0\Netflix Recomender.csprojAssemblyReference.cache
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\obj\Debug\netstandard2.0\Netflix Recomender.AssemblyInfoInputs.cache
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\obj\Debug\netstandard2.0\Netflix Recomender.AssemblyInfo.cs
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\obj\Debug\netstandard2.0\Netflix Recomender.csproj.CoreCompileInputs.cache
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\obj\Debug\netstandard2.0\Netflix Recomender.dll
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\obj\Debug\netstandard2.0\ref\Netflix Recomender.dll
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\obj\Debug\netstandard2.0\Netflix Recomender.pdb
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\obj\Debug\netstandard2.0\Views\MovieDetailsPage.xaml.g.cs
+C:\Development\Mobile Apps\Netflix Recomender\Netflix Recomender\obj\Debug\netstandard2.0\Views\MoviesPage.xaml.g.cs
